@@ -419,7 +419,7 @@ a:focus {
 }
 
 .saving_section .box {
-  padding-top: 45px;
+  padding-top: -5px;
   background-color: #7fd7eb;
   color: #ffffff;
   border-radius: 15px;
@@ -804,6 +804,8 @@ a:focus {
 .info_section p {
   color: #cbc9c9;
 }
+
+
 
 .info_section .info_link-box a {
   display: -webkit-box;
